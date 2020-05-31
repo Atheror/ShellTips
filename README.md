@@ -1,4 +1,5 @@
-# ShellTips
+# Bash SNIPPETS
+
 Tools &amp; code snippets
 
 Print a text file or a config file without comments:
